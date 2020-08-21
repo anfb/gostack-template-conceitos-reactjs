@@ -9,3 +9,9 @@
 - **`Add a new repository`**
 
 - **`Remove a repository`**
+
+### Usage
+
+```bash
+Yarn
+```
