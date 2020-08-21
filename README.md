@@ -4,7 +4,7 @@
 
 ## **[API node.js](https://github.com/anfb/gostack-template-conceitos-nodejs)**
 
- **`List all repositories of the API`**
+- **`List all repositories of the API`**
 
 - **`Add a new repository`**
 
